@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import ButtonComponent from './components/button.component';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css'; //Dependencia css Bootstrap (Colocar no App.tsx)
 
 interface Props{
 
